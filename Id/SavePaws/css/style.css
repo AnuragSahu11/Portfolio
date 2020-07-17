@@ -1,0 +1,112 @@
+body{
+    font-family: 'Cinzel', serif !important;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.33);
+
+}
+#bg{
+    background: url("../img/tiger2.jpg"),linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6));
+    background-blend-mode: overlay;
+    background-position: center center;
+    background-size: cover;
+    height: auto;
+    left: 0;
+    min-height: 100%;
+    min-width: 100%;
+    position: absolute;
+    top: 0;
+    width: auto;
+   
+}
+
+
+#navb{
+    z-index: 1;
+}
+
+.paw{
+    font-size: 1.5em;
+    color: black;
+    
+}
+
+#navss{
+    color: rgba(179, 49, 26, 0.8) !important; 
+        
+}
+
+#logo{
+    font-size: 1.5em;
+    
+}
+
+.navs{
+    color: rgba(250, 250, 250, 0.6) !important;
+    font-weight: 200 !important;
+    
+}
+
+.heading{
+    text-align: center;
+    font-size: 4.5em;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.55);
+}
+.headingdiv{
+   margin: auto;
+   
+}
+.cover{
+    display:flex;
+    justify-content: center;
+    }
+
+.hed{
+    color: rgba(255, 255, 255, 0.9)!important;
+}
+
+.headingdiv{
+    padding-top: 38%;
+}
+
+.content{
+    position: relative;
+    margin-top: 7%; 
+    margin-bottom: 12%;  
+    font-weight: bold !important;
+}
+
+.fnt{
+    font-family: 'Libre Franklin', sans-serif !important;
+}
+
+.mini{
+    text-align: center;
+    color: rgba(250, 250, 250, 0.7) !important;
+    
+}
+
+.inp{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.lbl{
+    color: white !important;
+}
+
+.eml{
+
+}
+
+.ibg{
+    background: transparent !important;
+    border:none;
+    
+     
+}
+
+.btnn{
+    
+    margin-left: 10%;
+    
+}
