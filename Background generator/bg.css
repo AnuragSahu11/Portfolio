@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    font-family: 'Bungee', cursive;
+    color: rgba(0, 0, 0, 0.6);
+    background: linear-gradient(to right,#972894,#374dc8);
+    font-size: 2rem;
+    
+}
+
+.tinp{
+    width: 5%;
+}
+
